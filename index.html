@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>松下 MINAS A6 伺服選型表</title>
+    <link rel="stylesheet" href="styles.css?v=20261005-shared-selector">
+    <link rel="stylesheet" href="integration.css?v=20261005-pill-switch">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div class="brand-block">
+          <img id="seriesMenuHotspot" class="brand-logo" src="assets/yy-logo-transparent.png" alt="耀毅企業股份有限公司 LOGO" draggable="false">
+          <div>
+            <p class="company-name">耀毅企業股份有限公司</p>
+            <p class="eyebrow">Panasonic MINAS A6 planning selector</p>
+            <h1>松下伺服馬達選型表</h1>
+          </div>
+        </div>
+        <a class="selector-switch" href="photoelectric/index.html?back=../index.html&amp;backLabel=返回伺服選型">光電素子選型</a>
+      </header>
+
+      <section class="workspace" aria-label="伺服選型工作區">
+        <aside class="filters" aria-label="規格篩選">
+          <div class="panel-title">
+            <h2>規格條件</h2>
+            <button id="resetBtn" type="button" title="清除條件">重設</button>
+          </div>
+
+          <label id="seriesFilter" class="series-filter" hidden>
+            系列
+            <select id="series">
+              <option value="A6">A6</option>
+              <option value="A6V">A6V</option>
+            </select>
+          </label>
+
+          <label id="workingVoltageFilter" style="display: none;">
+            工作電壓
+            <select id="workingVoltage"></select>
+          </label>
+
+          <label>
+            編碼器
+            <select id="encoder"></select>
+          </label>
+
+          <label>
+            慣量等級
+            <select id="inertia"></select>
+          </label>
+
+          <label>
+            瓦數
+            <select id="watt"></select>
+          </label>
+
+          <label>
+            煞車
+            <select id="brake"></select>
+          </label>
+
+          <label>
+            防護等級
+            <select id="ipRating"></select>
+          </label>
+
+          <label>
+            控制模式
+            <select id="control"></select>
+          </label>
+
+          <label>
+            需要速度 / 扭矩控制
+            <select id="speedTorque"></select>
+          </label>
+
+          <label>
+            需要 STO 功能
+            <select id="sto"></select>
+          </label>
+
+          <label>
+            需要閉環控制(光學尺請選擇方波/數位訊號)
+            <select id="closedLoop"></select>
+          </label>
+
+          <label>
+            絕對位置記憶
+            <select id="absMemory"></select>
+          </label>
+
+          <label>
+            馬達線長
+            <select id="cableLength"></select>
+          </label>
+
+          <label>
+            線材材質
+            <select id="cableFlex"></select>
+          </label>
+        </aside>
+
+        <section class="results" aria-label="選型結果">
+          <div class="summary-strip">
+            <article>
+              <span>符合馬達</span>
+              <strong id="motorCount">0</strong>
+            </article>
+            <article>
+              <span>對應驅動器</span>
+              <strong id="driverCount">0</strong>
+            </article>
+            <article>
+              <span>線材組合</span>
+              <strong id="cableCount">0</strong>
+            </article>
+          </div>
+
+          <div class="content-grid">
+            <section class="section-block">
+              <div class="section-heading">
+                <h2>馬達候選</h2>
+                <p>依低/高慣量、瓦數與煞車篩選，點選列可指定目前產品。</p>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>系列</th>
+                      <th>馬達型號</th>
+                      <th>容量</th>
+                      <th>慣量</th>
+                      <th>IP</th>
+                      <th>煞車</th>
+                    </tr>
+                  </thead>
+                  <tbody id="motorRows"></tbody>
+                </table>
+              </div>
+            </section>
+
+            <section class="section-block selected-block">
+              <div class="section-heading">
+                <h2>目前選擇</h2>
+              </div>
+              <div id="selectedCard" class="selected-card"></div>
+              <section class="section-block embedded-driver-block">
+                <div class="section-heading">
+                  <h2>對應驅動器</h2>
+                  <p>依控制模式、容量與全功能需求匹配。</p>
+                </div>
+                <div id="driverList" class="item-list"></div>
+              </section>
+            </section>
+          </div>
+
+          <div class="content-grid lower">
+            <section class="section-block">
+              <div class="section-heading">
+                <h2>線材選配</h2>
+                <p id="cableDescription">目前依長度與耐曲折列出，型號待你補正式料號。</p>
+              </div>
+              <div id="cableList" class="item-list"></div>
+              <div id="regenResistorBlock" class="accessory-block">
+                <div class="section-heading compact-heading">
+                  <h2>再生電阻</h2>
+                  <p>依驅動器規格顯示建議電阻。</p>
+                </div>
+                <div id="regenResistorList" class="accessory-list"></div>
+              </div>
+              <div id="accessoryBlock" class="accessory-block">
+                <div class="section-heading compact-heading">
+                  <h2>接頭與控制線</h2>
+                  <p>勾選需要的選配品。</p>
+                </div>
+                <div id="accessoryList" class="accessory-list"></div>
+              </div>
+            </section>
+          </div>
+
+          <section class="section-block quote-block">
+            <div class="section-heading">
+              <h2>目前選中型號</h2>
+              <p>輸入本次數量後加入詢價清單，同型號會自動彙整。</p>
+            </div>
+            <div id="currentSelectionList" class="current-selection-list"></div>
+            <div class="quote-actions">
+              <label>
+                本次數量
+                <input id="addQty" type="number" min="1" step="1" value="1">
+              </label>
+              <button id="addQuoteBtn" type="button">加入</button>
+              <button id="exportQuoteBtn" type="button">匯出詢價單</button>
+              <label class="quote-project-field">
+                案件號/機台名稱
+                <input id="projectMachineName" type="text">
+              </label>
+            </div>
+            <div class="contact-fields" aria-label="詢價聯絡資訊">
+              <label>
+                公司名稱
+                <input id="contactCompany" type="text" required>
+              </label>
+              <label>
+                姓名
+                <input id="contactName" type="text" required>
+              </label>
+              <label>
+                連絡電話
+                <input id="contactPhone" type="tel" required>
+              </label>
+              <label>
+                Email
+                <input id="contactEmail" type="email">
+              </label>
+            </div>
+            <div class="table-wrap quote-table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>類別</th>
+                    <th>型號</th>
+                    <th>規格</th>
+                    <th>數量</th>
+                    <th>備註</th>
+                    <th>操作</th>
+                  </tr>
+                </thead>
+                <tbody id="quoteRows"></tbody>
+              </table>
+            </div>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <script src="data/catalog.js?v=20261001-a6v2"></script>
+    <script src="data/a6v.js?v=20261002-a6v15"></script>
+    <script src="app.js?v=20261005-project-match"></script>
+  </body>
+</html>
