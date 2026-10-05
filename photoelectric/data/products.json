@@ -1,0 +1,1549 @@
+{
+  "source": "E:\\型錄&手冊\\Panasonic\\傳感器\\光電素子\\光電素子對照表-OMRON&Panasonic.xlsx",
+  "recordCount": 50,
+  "generatedFrom": "光電素子對照表-OMRON&Panasonic.xlsx",
+  "records": [
+    {
+      "group": "PM-25",
+      "shape": "K型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-K25",
+      "panasonicBase": "PM-K25",
+      "omron": "EE-SX950-W 1M",
+      "photo": "assets/photos/pm-k25.jpeg",
+      "files": [
+        {
+          "name": "PM-K25.dxf",
+          "type": "DXF",
+          "size": 34589,
+          "url": "assets/drawings/PM-K25/PM-K25.dxf"
+        },
+        {
+          "name": "PM-K25.step",
+          "type": "STEP",
+          "size": 138503,
+          "url": "assets/drawings/PM-K25/PM-K25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "K型",
+      "cable": "1M耐彎",
+      "output": "NPN",
+      "panasonic": "PM-K25-R",
+      "panasonicBase": "PM-K25",
+      "omron": "EE-SX950-R 1M",
+      "photo": "assets/photos/pm-k25.jpeg",
+      "files": [
+        {
+          "name": "PM-K25.dxf",
+          "type": "DXF",
+          "size": 34589,
+          "url": "assets/drawings/PM-K25/PM-K25.dxf"
+        },
+        {
+          "name": "PM-K25.step",
+          "type": "STEP",
+          "size": 138503,
+          "url": "assets/drawings/PM-K25/PM-K25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "K型",
+      "cable": "3M",
+      "output": "NPN",
+      "panasonic": "PM-K25-C3",
+      "panasonicBase": "PM-K25",
+      "omron": "EE-SX950-W 3M",
+      "photo": "assets/photos/pm-k25.jpeg",
+      "files": [
+        {
+          "name": "PM-K25.dxf",
+          "type": "DXF",
+          "size": 34589,
+          "url": "assets/drawings/PM-K25/PM-K25.dxf"
+        },
+        {
+          "name": "PM-K25.step",
+          "type": "STEP",
+          "size": 138503,
+          "url": "assets/drawings/PM-K25/PM-K25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "K型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-K25-P",
+      "panasonicBase": "PM-K25",
+      "omron": "EE-SX950P-W 1M",
+      "photo": "assets/photos/pm-k25.jpeg",
+      "files": [
+        {
+          "name": "PM-K25.dxf",
+          "type": "DXF",
+          "size": 34589,
+          "url": "assets/drawings/PM-K25/PM-K25.dxf"
+        },
+        {
+          "name": "PM-K25.step",
+          "type": "STEP",
+          "size": 138503,
+          "url": "assets/drawings/PM-K25/PM-K25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "L型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-L25",
+      "panasonicBase": "PM-L25",
+      "omron": "EE-SX951-W 1M",
+      "photo": "assets/photos/pm-l25.jpeg",
+      "files": [
+        {
+          "name": "PM-L25.dxf",
+          "type": "DXF",
+          "size": 34437,
+          "url": "assets/drawings/PM-L25/PM-L25.dxf"
+        },
+        {
+          "name": "PM-L25.step",
+          "type": "STEP",
+          "size": 99618,
+          "url": "assets/drawings/PM-L25/PM-L25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "L型",
+      "cable": "1M耐彎",
+      "output": "NPN",
+      "panasonic": "PM-L25-R",
+      "panasonicBase": "PM-L25",
+      "omron": "EE-SX951-R 1M",
+      "photo": "assets/photos/pm-l25.jpeg",
+      "files": [
+        {
+          "name": "PM-L25.dxf",
+          "type": "DXF",
+          "size": 34437,
+          "url": "assets/drawings/PM-L25/PM-L25.dxf"
+        },
+        {
+          "name": "PM-L25.step",
+          "type": "STEP",
+          "size": 99618,
+          "url": "assets/drawings/PM-L25/PM-L25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "L型",
+      "cable": "3M",
+      "output": "NPN",
+      "panasonic": "PM-L25-C3",
+      "panasonicBase": "PM-L25",
+      "omron": "EE-SX951-W 3M",
+      "photo": "assets/photos/pm-l25.jpeg",
+      "files": [
+        {
+          "name": "PM-L25.dxf",
+          "type": "DXF",
+          "size": 34437,
+          "url": "assets/drawings/PM-L25/PM-L25.dxf"
+        },
+        {
+          "name": "PM-L25.step",
+          "type": "STEP",
+          "size": 99618,
+          "url": "assets/drawings/PM-L25/PM-L25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "L型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-L25-P",
+      "panasonicBase": "PM-L25",
+      "omron": "EE-SX951P-W 1M",
+      "photo": "assets/photos/pm-l25.jpeg",
+      "files": [
+        {
+          "name": "PM-L25.dxf",
+          "type": "DXF",
+          "size": 34437,
+          "url": "assets/drawings/PM-L25/PM-L25.dxf"
+        },
+        {
+          "name": "PM-L25.step",
+          "type": "STEP",
+          "size": 99618,
+          "url": "assets/drawings/PM-L25/PM-L25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "U型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-U25",
+      "panasonicBase": "PM-U25",
+      "omron": "EE-SX954-W 1M",
+      "photo": "assets/photos/pm-u25.jpeg",
+      "files": [
+        {
+          "name": "PM-U25.dxf",
+          "type": "DXF",
+          "size": 32758,
+          "url": "assets/drawings/PM-U25/PM-U25.dxf"
+        },
+        {
+          "name": "PM-U25.step",
+          "type": "STEP",
+          "size": 119794,
+          "url": "assets/drawings/PM-U25/PM-U25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "U型",
+      "cable": "1M耐彎",
+      "output": "NPN",
+      "panasonic": "PM-U25-R",
+      "panasonicBase": "PM-U25",
+      "omron": "EE-SX954-R 1M",
+      "photo": "assets/photos/pm-u25.jpeg",
+      "files": [
+        {
+          "name": "PM-U25.dxf",
+          "type": "DXF",
+          "size": 32758,
+          "url": "assets/drawings/PM-U25/PM-U25.dxf"
+        },
+        {
+          "name": "PM-U25.step",
+          "type": "STEP",
+          "size": 119794,
+          "url": "assets/drawings/PM-U25/PM-U25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "U型",
+      "cable": "3M",
+      "output": "NPN",
+      "panasonic": "PM-U25-C3",
+      "panasonicBase": "PM-U25",
+      "omron": "EE-SX954-W 3M",
+      "photo": "assets/photos/pm-u25.jpeg",
+      "files": [
+        {
+          "name": "PM-U25.dxf",
+          "type": "DXF",
+          "size": 32758,
+          "url": "assets/drawings/PM-U25/PM-U25.dxf"
+        },
+        {
+          "name": "PM-U25.step",
+          "type": "STEP",
+          "size": 119794,
+          "url": "assets/drawings/PM-U25/PM-U25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "U型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-U25-P",
+      "panasonicBase": "PM-U25",
+      "omron": "EE-SX954P-W 1M",
+      "photo": "assets/photos/pm-u25.jpeg",
+      "files": [
+        {
+          "name": "PM-U25.dxf",
+          "type": "DXF",
+          "size": 32758,
+          "url": "assets/drawings/PM-U25/PM-U25.dxf"
+        },
+        {
+          "name": "PM-U25.step",
+          "type": "STEP",
+          "size": 119794,
+          "url": "assets/drawings/PM-U25/PM-U25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "F型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-F25",
+      "panasonicBase": "PM-F25",
+      "omron": "EE-SX952-W 1M",
+      "photo": "assets/photos/pm-f25.jpeg",
+      "files": [
+        {
+          "name": "PM-F25.dxf",
+          "type": "DXF",
+          "size": 31655,
+          "url": "assets/drawings/PM-F25/PM-F25.dxf"
+        },
+        {
+          "name": "PM-F25.step",
+          "type": "STEP",
+          "size": 147163,
+          "url": "assets/drawings/PM-F25/PM-F25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "F型",
+      "cable": "1M耐彎",
+      "output": "NPN",
+      "panasonic": "PM-F25-R",
+      "panasonicBase": "PM-F25",
+      "omron": "EE-SX952-R 1M",
+      "photo": "assets/photos/pm-f25.jpeg",
+      "files": [
+        {
+          "name": "PM-F25.dxf",
+          "type": "DXF",
+          "size": 31655,
+          "url": "assets/drawings/PM-F25/PM-F25.dxf"
+        },
+        {
+          "name": "PM-F25.step",
+          "type": "STEP",
+          "size": 147163,
+          "url": "assets/drawings/PM-F25/PM-F25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "F型",
+      "cable": "3M",
+      "output": "NPN",
+      "panasonic": "PM-F25-C3",
+      "panasonicBase": "PM-F25",
+      "omron": "EE-SX952-W 3M",
+      "photo": "assets/photos/pm-f25.jpeg",
+      "files": [
+        {
+          "name": "PM-F25.dxf",
+          "type": "DXF",
+          "size": 31655,
+          "url": "assets/drawings/PM-F25/PM-F25.dxf"
+        },
+        {
+          "name": "PM-F25.step",
+          "type": "STEP",
+          "size": 147163,
+          "url": "assets/drawings/PM-F25/PM-F25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "F型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-F25-P",
+      "panasonicBase": "PM-F25",
+      "omron": "EE-SX952P-W 1M",
+      "photo": "assets/photos/pm-f25.jpeg",
+      "files": [
+        {
+          "name": "PM-F25.dxf",
+          "type": "DXF",
+          "size": 31655,
+          "url": "assets/drawings/PM-F25/PM-F25.dxf"
+        },
+        {
+          "name": "PM-F25.step",
+          "type": "STEP",
+          "size": 147163,
+          "url": "assets/drawings/PM-F25/PM-F25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "R型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-R25",
+      "panasonicBase": "PM-R25",
+      "omron": "EE-SX953-W 1M",
+      "photo": "assets/photos/pm-r25.jpeg",
+      "files": [
+        {
+          "name": "PM-R25.dxf",
+          "type": "DXF",
+          "size": 36746,
+          "url": "assets/drawings/PM-R25/PM-R25.dxf"
+        },
+        {
+          "name": "PM-R25.step",
+          "type": "STEP",
+          "size": 146667,
+          "url": "assets/drawings/PM-R25/PM-R25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "R型",
+      "cable": "1M耐彎",
+      "output": "NPN",
+      "panasonic": "PM-R25-R",
+      "panasonicBase": "PM-R25",
+      "omron": "EE-SX953-R 1M",
+      "photo": "assets/photos/pm-r25.jpeg",
+      "files": [
+        {
+          "name": "PM-R25.dxf",
+          "type": "DXF",
+          "size": 36746,
+          "url": "assets/drawings/PM-R25/PM-R25.dxf"
+        },
+        {
+          "name": "PM-R25.step",
+          "type": "STEP",
+          "size": 146667,
+          "url": "assets/drawings/PM-R25/PM-R25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "R型",
+      "cable": "3M",
+      "output": "NPN",
+      "panasonic": "PM-R25-C3",
+      "panasonicBase": "PM-R25",
+      "omron": "EE-SX953-W 3M",
+      "photo": "assets/photos/pm-r25.jpeg",
+      "files": [
+        {
+          "name": "PM-R25.dxf",
+          "type": "DXF",
+          "size": 36746,
+          "url": "assets/drawings/PM-R25/PM-R25.dxf"
+        },
+        {
+          "name": "PM-R25.step",
+          "type": "STEP",
+          "size": 146667,
+          "url": "assets/drawings/PM-R25/PM-R25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-25",
+      "shape": "R型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-R25-P",
+      "panasonicBase": "PM-R25",
+      "omron": "EE-SX953P-W 1M",
+      "photo": "assets/photos/pm-r25.jpeg",
+      "files": [
+        {
+          "name": "PM-R25.dxf",
+          "type": "DXF",
+          "size": 36746,
+          "url": "assets/drawings/PM-R25/PM-R25.dxf"
+        },
+        {
+          "name": "PM-R25.step",
+          "type": "STEP",
+          "size": 146667,
+          "url": "assets/drawings/PM-R25/PM-R25.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "K型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-K45",
+      "panasonicBase": "PM-K45",
+      "omron": "EE-SX470 / EE-SX670\n非出線型",
+      "photo": "assets/photos/pm-k45.jpeg",
+      "files": [
+        {
+          "name": "PM-K45.dxf",
+          "type": "DXF",
+          "size": 36233,
+          "url": "assets/drawings/PM-K45/PM-K45.dxf"
+        },
+        {
+          "name": "PM-K45.step",
+          "type": "STEP",
+          "size": 193033,
+          "url": "assets/drawings/PM-K45/PM-K45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "K型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-K45-P",
+      "panasonicBase": "PM-K45",
+      "omron": "EE-SX670P\n非出線型",
+      "photo": "assets/photos/pm-k45.jpeg",
+      "files": [
+        {
+          "name": "PM-K45.dxf",
+          "type": "DXF",
+          "size": 36233,
+          "url": "assets/drawings/PM-K45/PM-K45.dxf"
+        },
+        {
+          "name": "PM-K45.step",
+          "type": "STEP",
+          "size": 193033,
+          "url": "assets/drawings/PM-K45/PM-K45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "L型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-L45",
+      "panasonicBase": "PM-L45",
+      "omron": "EE-SX471 / EE-SX671\n非出線型",
+      "photo": "assets/photos/pm-l45.jpeg",
+      "files": [
+        {
+          "name": "PM-L45.dxf",
+          "type": "DXF",
+          "size": 41110,
+          "url": "assets/drawings/PM-L45/PM-L45.dxf"
+        },
+        {
+          "name": "PM-L45.step",
+          "type": "STEP",
+          "size": 205301,
+          "url": "assets/drawings/PM-L45/PM-L45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "L型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-L45-P",
+      "panasonicBase": "PM-L45",
+      "omron": "EE-SX671P\n非出線型",
+      "photo": "assets/photos/pm-l45.jpeg",
+      "files": [
+        {
+          "name": "PM-L45.dxf",
+          "type": "DXF",
+          "size": 41110,
+          "url": "assets/drawings/PM-L45/PM-L45.dxf"
+        },
+        {
+          "name": "PM-L45.step",
+          "type": "STEP",
+          "size": 205301,
+          "url": "assets/drawings/PM-L45/PM-L45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "T型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-T45",
+      "panasonicBase": "PM-T45",
+      "omron": "EE-SX472 / EE-SX672\n非出線型",
+      "photo": "assets/photos/pm-t45.jpeg",
+      "files": [
+        {
+          "name": "PM-T45.dxf",
+          "type": "DXF",
+          "size": 38728,
+          "url": "assets/drawings/PM-T45/PM-T45.dxf"
+        },
+        {
+          "name": "PM-T45.step",
+          "type": "STEP",
+          "size": 149671,
+          "url": "assets/drawings/PM-T45/PM-T45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "T型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-T45-P",
+      "panasonicBase": "PM-T45",
+      "omron": "EE-SX672P\n非出線型",
+      "photo": "assets/photos/pm-t45.jpeg",
+      "files": [
+        {
+          "name": "PM-T45.dxf",
+          "type": "DXF",
+          "size": 38728,
+          "url": "assets/drawings/PM-T45/PM-T45.dxf"
+        },
+        {
+          "name": "PM-T45.step",
+          "type": "STEP",
+          "size": 149671,
+          "url": "assets/drawings/PM-T45/PM-T45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "Y型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-Y45",
+      "panasonicBase": "PM-Y45",
+      "omron": "EE-SX474 / EE-SX674\n非出線型",
+      "photo": "assets/photos/pm-y45.jpeg",
+      "files": [
+        {
+          "name": "PM-Y45.dxf",
+          "type": "DXF",
+          "size": 35550,
+          "url": "assets/drawings/PM-Y45/PM-Y45.dxf"
+        },
+        {
+          "name": "PM-Y45.step",
+          "type": "STEP",
+          "size": 140117,
+          "url": "assets/drawings/PM-Y45/PM-Y45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "Y型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-Y45-P",
+      "panasonicBase": "PM-Y45",
+      "omron": "EE-SX674P\n非出線型",
+      "photo": "assets/photos/pm-y45.jpeg",
+      "files": [
+        {
+          "name": "PM-Y45.dxf",
+          "type": "DXF",
+          "size": 35550,
+          "url": "assets/drawings/PM-Y45/PM-Y45.dxf"
+        },
+        {
+          "name": "PM-Y45.step",
+          "type": "STEP",
+          "size": 140117,
+          "url": "assets/drawings/PM-Y45/PM-Y45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "F型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-F45",
+      "panasonicBase": "PM-F45",
+      "omron": "EE-SX676\n非出線型",
+      "photo": "assets/photos/pm-f45.jpeg",
+      "files": [
+        {
+          "name": "PM-F45.dxf",
+          "type": "DXF",
+          "size": 33732,
+          "url": "assets/drawings/PM-F45/PM-F45.dxf"
+        },
+        {
+          "name": "PM-F45.step",
+          "type": "STEP",
+          "size": 134774,
+          "url": "assets/drawings/PM-F45/PM-F45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "F型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-F45-P",
+      "panasonicBase": "PM-F45",
+      "omron": "EE-SX676P\n非出線型",
+      "photo": "assets/photos/pm-f45.jpeg",
+      "files": [
+        {
+          "name": "PM-F45.dxf",
+          "type": "DXF",
+          "size": 33732,
+          "url": "assets/drawings/PM-F45/PM-F45.dxf"
+        },
+        {
+          "name": "PM-F45.step",
+          "type": "STEP",
+          "size": 134774,
+          "url": "assets/drawings/PM-F45/PM-F45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "R型",
+      "cable": "1M",
+      "output": "NPN",
+      "panasonic": "PM-R45",
+      "panasonicBase": "PM-R45",
+      "omron": "EE-SX677\n非出線型",
+      "photo": "assets/photos/pm-r45.jpeg",
+      "files": [
+        {
+          "name": "PM-R45.dxf",
+          "type": "DXF",
+          "size": 34338,
+          "url": "assets/drawings/PM-R45/PM-R45.dxf"
+        },
+        {
+          "name": "PM-R45.step",
+          "type": "STEP",
+          "size": 134947,
+          "url": "assets/drawings/PM-R45/PM-R45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-45",
+      "shape": "R型",
+      "cable": "1M",
+      "output": "PNP",
+      "panasonic": "PM-R45-P",
+      "panasonicBase": "PM-R45",
+      "omron": "EE-SX677P\n非出線型",
+      "photo": "assets/photos/pm-r45.jpeg",
+      "files": [
+        {
+          "name": "PM-R45.dxf",
+          "type": "DXF",
+          "size": 34338,
+          "url": "assets/drawings/PM-R45/PM-R45.dxf"
+        },
+        {
+          "name": "PM-R45.step",
+          "type": "STEP",
+          "size": 134947,
+          "url": "assets/drawings/PM-R45/PM-R45.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "K型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-K65",
+      "panasonicBase": "PM-K65",
+      "omron": "EE-SX970-C1",
+      "photo": "assets/photos/pm-k65.jpeg",
+      "files": [
+        {
+          "name": "PM-K65.dxf",
+          "type": "DXF",
+          "size": 32989,
+          "url": "assets/drawings/PM-K65/PM-K65.dxf"
+        },
+        {
+          "name": "PM-K65.step",
+          "type": "STEP",
+          "size": 284738,
+          "url": "assets/drawings/PM-K65/PM-K65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "K型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-K65-P",
+      "panasonicBase": "PM-K65",
+      "omron": "EE-SX970P-C1",
+      "photo": "assets/photos/pm-k65.jpeg",
+      "files": [
+        {
+          "name": "PM-K65.dxf",
+          "type": "DXF",
+          "size": 32989,
+          "url": "assets/drawings/PM-K65/PM-K65.dxf"
+        },
+        {
+          "name": "PM-K65.step",
+          "type": "STEP",
+          "size": 284738,
+          "url": "assets/drawings/PM-K65/PM-K65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "T型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-T65",
+      "panasonicBase": "PM-T65",
+      "omron": "EE-SX972-C1",
+      "photo": "assets/photos/pm-t65.jpeg",
+      "files": [
+        {
+          "name": "PM-T65.dxf",
+          "type": "DXF",
+          "size": 33696,
+          "url": "assets/drawings/PM-T65/PM-T65.dxf"
+        },
+        {
+          "name": "PM-T65.step",
+          "type": "STEP",
+          "size": 271625,
+          "url": "assets/drawings/PM-T65/PM-T65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "T型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-T65-P",
+      "panasonicBase": "PM-T65",
+      "omron": "EE-SX972P-C1",
+      "photo": "assets/photos/pm-t65.jpeg",
+      "files": [
+        {
+          "name": "PM-T65.dxf",
+          "type": "DXF",
+          "size": 33696,
+          "url": "assets/drawings/PM-T65/PM-T65.dxf"
+        },
+        {
+          "name": "PM-T65.step",
+          "type": "STEP",
+          "size": 271625,
+          "url": "assets/drawings/PM-T65/PM-T65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "T型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-T65W",
+      "panasonicBase": "PM-T65W",
+      "omron": "EE-SX975-C1",
+      "photo": "assets/photos/pm-t65w.jpeg",
+      "files": [
+        {
+          "name": "PM-T65W.dxf",
+          "type": "DXF",
+          "size": 35772,
+          "url": "assets/drawings/PM-T65W/PM-T65W.dxf"
+        },
+        {
+          "name": "PM-T65W.step",
+          "type": "STEP",
+          "size": 300128,
+          "url": "assets/drawings/PM-T65W/PM-T65W.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "T型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-T65W-P",
+      "panasonicBase": "PM-T65W",
+      "omron": "EE-SX975P-C1",
+      "photo": "assets/photos/pm-t65w.jpeg",
+      "files": [
+        {
+          "name": "PM-T65W.dxf",
+          "type": "DXF",
+          "size": 35772,
+          "url": "assets/drawings/PM-T65W/PM-T65W.dxf"
+        },
+        {
+          "name": "PM-T65W.step",
+          "type": "STEP",
+          "size": 300128,
+          "url": "assets/drawings/PM-T65W/PM-T65W.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "L型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-L65",
+      "panasonicBase": "PM-L65",
+      "omron": "EE-SX971-C1",
+      "photo": "assets/photos/pm-l65.jpeg",
+      "files": [
+        {
+          "name": "PM-L65.dxf",
+          "type": "DXF",
+          "size": 42829,
+          "url": "assets/drawings/PM-L65/PM-L65.dxf"
+        },
+        {
+          "name": "PM-L65.step",
+          "type": "STEP",
+          "size": 301879,
+          "url": "assets/drawings/PM-L65/PM-L65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "L型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-L65-P",
+      "panasonicBase": "PM-L65",
+      "omron": "EE-SX971P-C1",
+      "photo": "assets/photos/pm-l65.jpeg",
+      "files": [
+        {
+          "name": "PM-L65.dxf",
+          "type": "DXF",
+          "size": 42829,
+          "url": "assets/drawings/PM-L65/PM-L65.dxf"
+        },
+        {
+          "name": "PM-L65.step",
+          "type": "STEP",
+          "size": 301879,
+          "url": "assets/drawings/PM-L65/PM-L65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "Y型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-Y65",
+      "panasonicBase": "PM-Y65",
+      "omron": "EE-SX974-C1",
+      "photo": "assets/photos/pm-y65.jpeg",
+      "files": [
+        {
+          "name": "PM-Y65.dxf",
+          "type": "DXF",
+          "size": 37748,
+          "url": "assets/drawings/PM-Y65/PM-Y65.dxf"
+        },
+        {
+          "name": "PM-Y65.step",
+          "type": "STEP",
+          "size": 239182,
+          "url": "assets/drawings/PM-Y65/PM-Y65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "Y型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-Y65-P",
+      "panasonicBase": "PM-Y65",
+      "omron": "EE-SX974P-C1",
+      "photo": "assets/photos/pm-y65.jpeg",
+      "files": [
+        {
+          "name": "PM-Y65.dxf",
+          "type": "DXF",
+          "size": 37748,
+          "url": "assets/drawings/PM-Y65/PM-Y65.dxf"
+        },
+        {
+          "name": "PM-Y65.step",
+          "type": "STEP",
+          "size": 239182,
+          "url": "assets/drawings/PM-Y65/PM-Y65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "F型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-F65",
+      "panasonicBase": "PM-F65",
+      "omron": "EE-SX976-C1",
+      "photo": "assets/photos/pm-f65.jpeg",
+      "files": [
+        {
+          "name": "PM-F65.dxf",
+          "type": "DXF",
+          "size": 37431,
+          "url": "assets/drawings/PM-F65/PM-F65.dxf"
+        },
+        {
+          "name": "PM-F65.step",
+          "type": "STEP",
+          "size": 241920,
+          "url": "assets/drawings/PM-F65/PM-F65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "F型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-F65-P",
+      "panasonicBase": "PM-F65",
+      "omron": "EE-SX976P-C1",
+      "photo": "assets/photos/pm-f65.jpeg",
+      "files": [
+        {
+          "name": "PM-F65.dxf",
+          "type": "DXF",
+          "size": 37431,
+          "url": "assets/drawings/PM-F65/PM-F65.dxf"
+        },
+        {
+          "name": "PM-F65.step",
+          "type": "STEP",
+          "size": 241920,
+          "url": "assets/drawings/PM-F65/PM-F65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "F型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-F65W",
+      "panasonicBase": "PM-F65W",
+      "omron": "-",
+      "photo": "assets/photos/pm-f65w.jpeg",
+      "files": [
+        {
+          "name": "PM-F65W.dxf",
+          "type": "DXF",
+          "size": 31387,
+          "url": "assets/drawings/PM-F65W/PM-F65W.dxf"
+        },
+        {
+          "name": "PM-F65W.step",
+          "type": "STEP",
+          "size": 251908,
+          "url": "assets/drawings/PM-F65W/PM-F65W.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "F型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-F65W-P",
+      "panasonicBase": "PM-F65W",
+      "omron": "-",
+      "photo": "assets/photos/pm-f65w.jpeg",
+      "files": [
+        {
+          "name": "PM-F65W.dxf",
+          "type": "DXF",
+          "size": 31387,
+          "url": "assets/drawings/PM-F65W/PM-F65W.dxf"
+        },
+        {
+          "name": "PM-F65W.step",
+          "type": "STEP",
+          "size": 251908,
+          "url": "assets/drawings/PM-F65W/PM-F65W.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "R型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-R65",
+      "panasonicBase": "PM-R65",
+      "omron": "EE-SX977-C1",
+      "photo": "assets/photos/pm-r65.jpeg",
+      "files": [
+        {
+          "name": "PM-R65.dxf",
+          "type": "DXF",
+          "size": 50693,
+          "url": "assets/drawings/PM-R65/PM-R65.dxf"
+        },
+        {
+          "name": "PM-R65.step",
+          "type": "STEP",
+          "size": 245628,
+          "url": "assets/drawings/PM-R65/PM-R65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "R型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-R65-P",
+      "panasonicBase": "PM-R65",
+      "omron": "EE-SX977P-C1",
+      "photo": "assets/photos/pm-r65.jpeg",
+      "files": [
+        {
+          "name": "PM-R65.dxf",
+          "type": "DXF",
+          "size": 50693,
+          "url": "assets/drawings/PM-R65/PM-R65.dxf"
+        },
+        {
+          "name": "PM-R65.step",
+          "type": "STEP",
+          "size": 245628,
+          "url": "assets/drawings/PM-R65/PM-R65.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "R型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "NPN",
+      "panasonic": "PM-R65W",
+      "panasonicBase": "PM-R65W",
+      "omron": "-",
+      "photo": "assets/photos/pm-r65w.jpeg",
+      "files": [
+        {
+          "name": "PM-R65W.dxf",
+          "type": "DXF",
+          "size": 30834,
+          "url": "assets/drawings/PM-R65W/PM-R65W.dxf"
+        },
+        {
+          "name": "PM-R65W.step",
+          "type": "STEP",
+          "size": 251990,
+          "url": "assets/drawings/PM-R65W/PM-R65W.step"
+        }
+      ]
+    },
+    {
+      "group": "PM-65",
+      "shape": "R型",
+      "cable": "外接2M線\nCN-14A-C2-YY",
+      "output": "PNP",
+      "panasonic": "PM-R65W-P",
+      "panasonicBase": "PM-R65W",
+      "omron": "-",
+      "photo": "assets/photos/pm-r65w.jpeg",
+      "files": [
+        {
+          "name": "PM-R65W.dxf",
+          "type": "DXF",
+          "size": 30834,
+          "url": "assets/drawings/PM-R65W/PM-R65W.dxf"
+        },
+        {
+          "name": "PM-R65W.step",
+          "type": "STEP",
+          "size": 251990,
+          "url": "assets/drawings/PM-R65W/PM-R65W.step"
+        }
+      ]
+    }
+  ],
+  "bases": {
+    "PM-K25": {
+      "photo": "assets/photos/pm-k25.jpeg",
+      "files": [
+        {
+          "name": "PM-K25.dxf",
+          "type": "DXF",
+          "size": 34589,
+          "url": "assets/drawings/PM-K25/PM-K25.dxf"
+        },
+        {
+          "name": "PM-K25.step",
+          "type": "STEP",
+          "size": 138503,
+          "url": "assets/drawings/PM-K25/PM-K25.step"
+        }
+      ]
+    },
+    "PM-L25": {
+      "photo": "assets/photos/pm-l25.jpeg",
+      "files": [
+        {
+          "name": "PM-L25.dxf",
+          "type": "DXF",
+          "size": 34437,
+          "url": "assets/drawings/PM-L25/PM-L25.dxf"
+        },
+        {
+          "name": "PM-L25.step",
+          "type": "STEP",
+          "size": 99618,
+          "url": "assets/drawings/PM-L25/PM-L25.step"
+        }
+      ]
+    },
+    "PM-U25": {
+      "photo": "assets/photos/pm-u25.jpeg",
+      "files": [
+        {
+          "name": "PM-U25.dxf",
+          "type": "DXF",
+          "size": 32758,
+          "url": "assets/drawings/PM-U25/PM-U25.dxf"
+        },
+        {
+          "name": "PM-U25.step",
+          "type": "STEP",
+          "size": 119794,
+          "url": "assets/drawings/PM-U25/PM-U25.step"
+        }
+      ]
+    },
+    "PM-F25": {
+      "photo": "assets/photos/pm-f25.jpeg",
+      "files": [
+        {
+          "name": "PM-F25.dxf",
+          "type": "DXF",
+          "size": 31655,
+          "url": "assets/drawings/PM-F25/PM-F25.dxf"
+        },
+        {
+          "name": "PM-F25.step",
+          "type": "STEP",
+          "size": 147163,
+          "url": "assets/drawings/PM-F25/PM-F25.step"
+        }
+      ]
+    },
+    "PM-R25": {
+      "photo": "assets/photos/pm-r25.jpeg",
+      "files": [
+        {
+          "name": "PM-R25.dxf",
+          "type": "DXF",
+          "size": 36746,
+          "url": "assets/drawings/PM-R25/PM-R25.dxf"
+        },
+        {
+          "name": "PM-R25.step",
+          "type": "STEP",
+          "size": 146667,
+          "url": "assets/drawings/PM-R25/PM-R25.step"
+        }
+      ]
+    },
+    "PM-K45": {
+      "photo": "assets/photos/pm-k45.jpeg",
+      "files": [
+        {
+          "name": "PM-K45.dxf",
+          "type": "DXF",
+          "size": 36233,
+          "url": "assets/drawings/PM-K45/PM-K45.dxf"
+        },
+        {
+          "name": "PM-K45.step",
+          "type": "STEP",
+          "size": 193033,
+          "url": "assets/drawings/PM-K45/PM-K45.step"
+        }
+      ]
+    },
+    "PM-L45": {
+      "photo": "assets/photos/pm-l45.jpeg",
+      "files": [
+        {
+          "name": "PM-L45.dxf",
+          "type": "DXF",
+          "size": 41110,
+          "url": "assets/drawings/PM-L45/PM-L45.dxf"
+        },
+        {
+          "name": "PM-L45.step",
+          "type": "STEP",
+          "size": 205301,
+          "url": "assets/drawings/PM-L45/PM-L45.step"
+        }
+      ]
+    },
+    "PM-T45": {
+      "photo": "assets/photos/pm-t45.jpeg",
+      "files": [
+        {
+          "name": "PM-T45.dxf",
+          "type": "DXF",
+          "size": 38728,
+          "url": "assets/drawings/PM-T45/PM-T45.dxf"
+        },
+        {
+          "name": "PM-T45.step",
+          "type": "STEP",
+          "size": 149671,
+          "url": "assets/drawings/PM-T45/PM-T45.step"
+        }
+      ]
+    },
+    "PM-Y45": {
+      "photo": "assets/photos/pm-y45.jpeg",
+      "files": [
+        {
+          "name": "PM-Y45.dxf",
+          "type": "DXF",
+          "size": 35550,
+          "url": "assets/drawings/PM-Y45/PM-Y45.dxf"
+        },
+        {
+          "name": "PM-Y45.step",
+          "type": "STEP",
+          "size": 140117,
+          "url": "assets/drawings/PM-Y45/PM-Y45.step"
+        }
+      ]
+    },
+    "PM-F45": {
+      "photo": "assets/photos/pm-f45.jpeg",
+      "files": [
+        {
+          "name": "PM-F45.dxf",
+          "type": "DXF",
+          "size": 33732,
+          "url": "assets/drawings/PM-F45/PM-F45.dxf"
+        },
+        {
+          "name": "PM-F45.step",
+          "type": "STEP",
+          "size": 134774,
+          "url": "assets/drawings/PM-F45/PM-F45.step"
+        }
+      ]
+    },
+    "PM-R45": {
+      "photo": "assets/photos/pm-r45.jpeg",
+      "files": [
+        {
+          "name": "PM-R45.dxf",
+          "type": "DXF",
+          "size": 34338,
+          "url": "assets/drawings/PM-R45/PM-R45.dxf"
+        },
+        {
+          "name": "PM-R45.step",
+          "type": "STEP",
+          "size": 134947,
+          "url": "assets/drawings/PM-R45/PM-R45.step"
+        }
+      ]
+    },
+    "PM-K65": {
+      "photo": "assets/photos/pm-k65.jpeg",
+      "files": [
+        {
+          "name": "PM-K65.dxf",
+          "type": "DXF",
+          "size": 32989,
+          "url": "assets/drawings/PM-K65/PM-K65.dxf"
+        },
+        {
+          "name": "PM-K65.step",
+          "type": "STEP",
+          "size": 284738,
+          "url": "assets/drawings/PM-K65/PM-K65.step"
+        }
+      ]
+    },
+    "PM-T65": {
+      "photo": "assets/photos/pm-t65.jpeg",
+      "files": [
+        {
+          "name": "PM-T65.dxf",
+          "type": "DXF",
+          "size": 33696,
+          "url": "assets/drawings/PM-T65/PM-T65.dxf"
+        },
+        {
+          "name": "PM-T65.step",
+          "type": "STEP",
+          "size": 271625,
+          "url": "assets/drawings/PM-T65/PM-T65.step"
+        }
+      ]
+    },
+    "PM-T65W": {
+      "photo": "assets/photos/pm-t65w.jpeg",
+      "files": [
+        {
+          "name": "PM-T65W.dxf",
+          "type": "DXF",
+          "size": 35772,
+          "url": "assets/drawings/PM-T65W/PM-T65W.dxf"
+        },
+        {
+          "name": "PM-T65W.step",
+          "type": "STEP",
+          "size": 300128,
+          "url": "assets/drawings/PM-T65W/PM-T65W.step"
+        }
+      ]
+    },
+    "PM-L65": {
+      "photo": "assets/photos/pm-l65.jpeg",
+      "files": [
+        {
+          "name": "PM-L65.dxf",
+          "type": "DXF",
+          "size": 42829,
+          "url": "assets/drawings/PM-L65/PM-L65.dxf"
+        },
+        {
+          "name": "PM-L65.step",
+          "type": "STEP",
+          "size": 301879,
+          "url": "assets/drawings/PM-L65/PM-L65.step"
+        }
+      ]
+    },
+    "PM-Y65": {
+      "photo": "assets/photos/pm-y65.jpeg",
+      "files": [
+        {
+          "name": "PM-Y65.dxf",
+          "type": "DXF",
+          "size": 37748,
+          "url": "assets/drawings/PM-Y65/PM-Y65.dxf"
+        },
+        {
+          "name": "PM-Y65.step",
+          "type": "STEP",
+          "size": 239182,
+          "url": "assets/drawings/PM-Y65/PM-Y65.step"
+        }
+      ]
+    },
+    "PM-F65": {
+      "photo": "assets/photos/pm-f65.jpeg",
+      "files": [
+        {
+          "name": "PM-F65.dxf",
+          "type": "DXF",
+          "size": 37431,
+          "url": "assets/drawings/PM-F65/PM-F65.dxf"
+        },
+        {
+          "name": "PM-F65.step",
+          "type": "STEP",
+          "size": 241920,
+          "url": "assets/drawings/PM-F65/PM-F65.step"
+        }
+      ]
+    },
+    "PM-F65W": {
+      "photo": "assets/photos/pm-f65w.jpeg",
+      "files": [
+        {
+          "name": "PM-F65W.dxf",
+          "type": "DXF",
+          "size": 31387,
+          "url": "assets/drawings/PM-F65W/PM-F65W.dxf"
+        },
+        {
+          "name": "PM-F65W.step",
+          "type": "STEP",
+          "size": 251908,
+          "url": "assets/drawings/PM-F65W/PM-F65W.step"
+        }
+      ]
+    },
+    "PM-R65": {
+      "photo": "assets/photos/pm-r65.jpeg",
+      "files": [
+        {
+          "name": "PM-R65.dxf",
+          "type": "DXF",
+          "size": 50693,
+          "url": "assets/drawings/PM-R65/PM-R65.dxf"
+        },
+        {
+          "name": "PM-R65.step",
+          "type": "STEP",
+          "size": 245628,
+          "url": "assets/drawings/PM-R65/PM-R65.step"
+        }
+      ]
+    },
+    "PM-R65W": {
+      "photo": "assets/photos/pm-r65w.jpeg",
+      "files": [
+        {
+          "name": "PM-R65W.dxf",
+          "type": "DXF",
+          "size": 30834,
+          "url": "assets/drawings/PM-R65W/PM-R65W.dxf"
+        },
+        {
+          "name": "PM-R65W.step",
+          "type": "STEP",
+          "size": 251990,
+          "url": "assets/drawings/PM-R65W/PM-R65W.step"
+        }
+      ]
+    }
+  }
+}

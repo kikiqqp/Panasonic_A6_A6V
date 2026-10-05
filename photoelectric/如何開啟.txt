@@ -1,0 +1,15 @@
+光電素子選型對照工具
+
+建議開啟方式：
+1. 直接執行「開啟選型表.bat」
+2. 或用瀏覽器開啟 index.html
+
+功能：
+- 可用 OMRON 型號下拉選擇，顯示 Panasonic 對應型號
+- 可輸入 OMRON 或 Panasonic 型號做模糊搜尋
+- 顯示系列、外型、纜線長、輸出與外型照片
+- 可下載 Panasonic 對應的 DXF / STEP 圖檔
+
+資料來源：
+E:\型錄&手冊\Panasonic\傳感器\光電素子\光電素子對照表-OMRON&Panasonic.xlsx
+E:\型錄&手冊\Panasonic\傳感器\光電素子\圖檔相關

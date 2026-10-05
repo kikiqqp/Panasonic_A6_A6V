@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Cache-Control" content="no-store" />
+    <title>光電素子選型對照</title>
+    <link rel="stylesheet" href="styles.css?v=25" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <h1>光電素子選型對照</h1>
+          <p>OMRON / Panasonic 型號對照、規格查詢、外型照片與 2D / 3D 圖檔下載</p>
+        </div>
+        <div class="meta">
+          <a id="backLink" class="navButton" href="../panasonic-servo-selector/index.html">返回 A6 伺服選型</a>
+        </div>
+      </header>
+
+      <section class="modeTabs" aria-label="操作模式">
+        <button class="modeTab active" type="button" data-mode="search">型號搜尋</button>
+        <button class="modeTab" type="button" data-mode="appearance">外型選擇</button>
+      </section>
+
+      <section class="controls" aria-label="查詢控制">
+        <label class="searchControl">
+          <span>輸入 OMRON 或 Panasonic 型號</span>
+          <input id="searchInput" type="search" placeholder="輸入型號，例如 EE-SX950、PM-K25、SX677" autocomplete="off" spellcheck="false" />
+          <div id="suggestions" class="suggestions" aria-label="相關型號選擇"></div>
+        </label>
+        <div class="filters" role="group" aria-label="篩選">
+          <button class="chip active" data-filter="all" type="button">全部</button>
+          <button class="chip" data-filter="NPN" type="button">NPN</button>
+          <button class="chip" data-filter="PNP" type="button">PNP</button>
+        </div>
+      </section>
+
+      <section id="appearancePanel" class="appearancePanel" aria-label="外型選擇" hidden>
+        <div class="appearanceHead">
+          <h2>依外型選擇 Panasonic 型號</h2>
+          <span>點選外型照片即可顯示規格與圖檔</span>
+        </div>
+        <div id="appearanceGroups" class="appearanceGroups"></div>
+      </section>
+
+      <section class="workspace">
+        <article class="detail" aria-live="polite">
+          <div class="photoBox">
+            <img id="productPhoto" alt="外型照片" />
+            <div id="photoFallback">無外型照片</div>
+          </div>
+          <div class="detailBody">
+            <div class="label">Panasonic 對應型號</div>
+            <h2 id="panasonicModel">--</h2>
+            <div class="pair">OMRON <strong id="omronModel">--</strong></div>
+            <dl class="specGrid">
+              <div><dt>系列</dt><dd id="series">--</dd></div>
+              <div><dt>外型</dt><dd id="shape">--</dd></div>
+              <div><dt>纜線長</dt><dd id="cable">--</dd></div>
+              <div><dt>輸出</dt><dd id="output">--</dd></div>
+            </dl>
+          </div>
+        </article>
+
+        <aside class="downloads">
+          <div class="asideTitle">
+            <h2>2D / 3D 圖檔</h2>
+            <span id="baseModel">--</span>
+          </div>
+          <div id="downloadList" class="downloadList"></div>
+          <div class="bomActions">
+            <label>
+              本次數量
+              <input id="bomQty" type="number" min="1" step="1" value="1" />
+            </label>
+            <button id="addBomBtn" type="button">加入 BOM</button>
+            <button id="exportBomBtn" type="button">匯出 CSV</button>
+          </div>
+        </aside>
+      </section>
+
+      <section class="bomPanel" aria-label="BOM 清單">
+        <div class="bomTitle">
+          <h2>BOM 清單</h2>
+          <span id="bomCount">0 項</span>
+        </div>
+        <div class="bomListWrap">
+          <table class="bomTable">
+            <thead>
+              <tr>
+                <th>類別</th>
+                <th>型號</th>
+                <th>規格</th>
+                <th>數量</th>
+                <th>備註</th>
+                <th>操作</th>
+              </tr>
+            </thead>
+            <tbody id="bomRows"></tbody>
+          </table>
+        </div>
+        <div class="bomFooter">
+          <button id="clearBomBtn" type="button">清空 BOM</button>
+        </div>
+      </section>
+    </main>
+    <script src="data/products.js?v=25"></script>
+    <script src="app.js?v=25"></script>
+  </body>
+</html>
