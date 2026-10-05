@@ -1,0 +1,41 @@
+{
+  "motors": [
+    {
+      "id": "unique-motor-id",
+      "series": "A6S",
+      "model": "official-motor-model",
+      "inertia": "低慣量",
+      "ratedSpeed": 3000,
+      "watt": 400,
+      "brake": false,
+      "voltage": "AC 200V",
+      "flange": "60 mm",
+      "encoder": "23-bit",
+      "driverId": "matching-driver-id",
+      "cad2d": "drawings/2d/example.dxf",
+      "cad3d": "drawings/3d/example.step",
+      "outline": "drawings/pdf/example.pdf"
+    }
+  ],
+  "drivers": [
+    {
+      "id": "matching-driver-id",
+      "series": "A6S",
+      "model": "official-driver-model",
+      "watt": 400,
+      "control": "脈波 / 類比",
+      "safety": "STO",
+      "voltage": "AC 200V"
+    }
+  ],
+  "cables": [
+    {
+      "id": "unique-cable-id",
+      "type": "編碼器線",
+      "model": "official-cable-model",
+      "length": "5 m",
+      "flex": "耐曲",
+      "brake": "共用"
+    }
+  ]
+}
