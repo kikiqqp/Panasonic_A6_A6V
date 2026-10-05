@@ -1,3 +1,0 @@
-.selector-switch{display:inline-flex;align-items:center;justify-content:center;min-height:36px;margin-left:auto;padding:0 14px;border:0;border-radius:999px;background:#0f766e;color:#fff;text-decoration:none;font-size:14px;font-weight:700;white-space:nowrap;box-shadow:0 5px 14px #0f766e22}
-.selector-switch:hover,.selector-switch:focus-visible{background:#0b625c;color:#fff}
-@media(max-width:760px){.selector-switch{justify-self:end;margin-top:4px;min-height:34px;padding:0 12px;font-size:13px}}
